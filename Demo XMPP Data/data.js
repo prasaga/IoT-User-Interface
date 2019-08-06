@@ -922,15 +922,6 @@ setTimeout(gpsUpdate,window.GPSFreq);
 
 
 
-window.nickName = "user_nickName", // User nickname
-window.userName = "user_userName", // User username
-window.passWord = "user_passWord", // User password
-window.serverName = "server.com", // Server domain
-window.roomName = "room", // Room name
-	
-window.userJID = window.userName + '@' + window.serverName, // User JID
-window.roomJID = window.roomName+'@conference.'+window.serverName, // Room JID
-
 
 
 
